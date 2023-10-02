@@ -1,0 +1,28 @@
+{
+    "product":[
+        {
+            "id":1, 
+            "name": "1+",
+            "color": "black",
+            "category": "phone",
+            "brand": "1+",
+            "photo": "https://m.media-amazon.com/images/I/614cCf6bzyL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id":2, 
+            "name": "Samsung AS50",
+            "color": "black",
+            "category": "phone",
+            "brand": "Samsung",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShbdiH51hYfFz5x8Stw216XOHi9C6L8AXtGh-7l3yx7kj9EtpclyAbmHq-rDfOk3VZBf8&usqp=CAU"
+        },
+        {
+            "id":3, 
+            "name": "T-shirt",
+            "color": "black",
+            "category": "cloths",
+            "brand": "shine",
+            "photo": "https://motocentral.in/cdn/shop/files/RynoxCamoWordmarkT-ShirtBlack1_1400x_d6c1f900-f769-4471-ba84-d000f93efff7_1024x1024.jpg?v=1688038386"
+        }
+    ]
+}
